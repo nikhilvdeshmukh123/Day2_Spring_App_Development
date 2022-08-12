@@ -11,5 +11,4 @@ public class SpringAppDevelopmentApplication {
         System.out.println("Hello from Bridgelabz");
         SpringApplication.run(SpringAppDevelopmentApplication.class, args);
     }
-
 }
